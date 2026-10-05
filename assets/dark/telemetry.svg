@@ -35,7 +35,7 @@
   </style>
   <line x1="48" y1="40" x2="952" y2="40" stroke="#2a313b"/>
   <text class="mono" x="48" y="28" font-size="11" letter-spacing="3.5" fill="#8b949e">TELEMETRY — WHAT THE HANDS ARE DOING</text>
-  <text class="mono" x="952" y="28" font-size="11" letter-spacing="3.5" fill="#8b949e" text-anchor="end">LIVE · 2026-10-04</text>
+  <text class="mono" x="952" y="28" font-size="11" letter-spacing="3.5" fill="#8b949e" text-anchor="end">LIVE · 2026-10-05</text>
   <line x1="360" y1="64" x2="360" y2="300" stroke="#2a313b" opacity=".5"/>
   <line x1="688" y1="64" x2="688" y2="300" stroke="#2a313b" opacity=".5"/>
 
@@ -83,7 +83,7 @@
       <text class="mono" x="605" y="278" font-size="9" fill="#5d6673" text-anchor="middle">A</text>
 <rect class="up" x="622" y="126" width="12" height="136" rx="2" fill="#e6edf3" opacity="0.5" style="transform-origin:0 262px;animation-delay:1.10s"/>
       <text class="mono" x="628" y="278" font-size="9" fill="#5d6673" text-anchor="middle">S</text>
-<rect class="up" x="645" y="217" width="12" height="45" rx="2" fill="#7a7aff" opacity="1" style="transform-origin:0 262px;animation-delay:1.17s"/>
+<rect class="up" x="645" y="214" width="12" height="48" rx="2" fill="#7a7aff" opacity="1" style="transform-origin:0 262px;animation-delay:1.17s"/>
       <text class="mono" x="651" y="278" font-size="9" fill="#5d6673" text-anchor="middle">O</text>
   <text class="mono fade" style="animation-delay:1.4s" x="392" y="300" font-size="10" letter-spacing="1.5" fill="#8b949e">peak — <tspan fill="#7a7aff">A · 473</tspan></text>
 
@@ -92,7 +92,7 @@
       <text class="mono" x="760" y="112" font-size="10" letter-spacing="2" fill="#8b949e">PUBLIC REPOSITORIES</text>
     </g>
 <g class="rise" style="animation-delay:0.7s">
-      <text class="mono" x="720" y="178" font-size="40" fill="#7a7aff">1457</text>
+      <text class="mono" x="720" y="178" font-size="40" fill="#7a7aff">1465</text>
       <text class="mono" x="832" y="172" font-size="10" letter-spacing="2" fill="#8b949e">COMMITS · 12 MONTHS</text>
     </g>
 <g class="rise" style="animation-delay:0.9s">
